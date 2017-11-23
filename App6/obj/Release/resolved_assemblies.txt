@@ -1,0 +1,11 @@
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\App6.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\Java.Interop.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\Microsoft.CSharp.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\Mono.Android.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\mscorlib.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\System.Core.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\System.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\System.Xml.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\Mono.CSharp.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Release\android\assets\Mono.Security.dll

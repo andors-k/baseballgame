@@ -1,0 +1,30 @@
+C:\Users\andors\Google 드라이브\App6\App6\bin\Debug\App6.dll
+C:\Users\andors\Google 드라이브\App6\App6\bin\Debug\App6.pdb
+C:\Users\andors\Google 드라이브\App6\App6\bin\Debug\App6.App6.apk
+C:\Users\andors\Google 드라이브\App6\App6\bin\Debug\App6.App6-Signed.apk
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\App6.csprojResolveAssemblyReference.cache
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\App6.dll
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\App6.pdb
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\android\bin\App6.App6.apk
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\res\layout\main.xml
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\res\values\strings.xml
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\res\drawable\icon.png
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\R.cs.flag
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\uploadflags.txt
+C:\Users\andors\Google 드라이브\App6\App6\bin\Debug\App6.dll.mdb
+C:\Users\andors\Google 드라이브\App6\App6\obj\Debug\android\assets\App6.dll.mdb
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\bin\Debug\App6.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\bin\Debug\App6.pdb
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\bin\Debug\App6.App6.apk
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\bin\Debug\App6.App6-Signed.apk
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\App6.csprojResolveAssemblyReference.cache
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\App6.dll
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\App6.pdb
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\android\bin\App6.App6.apk
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\res\layout\main.xml
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\res\values\strings.xml
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\res\drawable\icon.png
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\R.cs.flag
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\uploadflags.txt
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\bin\Debug\App6.dll.mdb
+D:\Users\winia\Documents\구글드라이브\Baseball_andr\App6\obj\Debug\android\assets\App6.dll.mdb

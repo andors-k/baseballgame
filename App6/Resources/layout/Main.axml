@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout1">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="190dp"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout2">
+            <Button
+                android:text="(야신 선택한 수)/다시하기"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:id="@+id/Me_End" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Me_Memo_editText"
+                android:inputType="number"
+                android:text="메모로 사용" />
+            <EditText
+                android:inputType="number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Me_editText" />
+            <TextView
+                android:text="-----"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:id="@+id/Me_ERR_textView" />
+            <Button
+                android:text="내 추측이 어때?"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/Me_button" />
+            <EditText
+                android:inputType="none"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:id="@+id/MeList_editText"
+                android:scrollbars="vertical"
+                android:scrollbarStyle="insideOverlay"
+                android:verticalScrollbarPosition="defaultPosition"
+                android:editable="false"
+                android:gravity="top" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/linearLayout3">
+            <Button
+                android:text="다시하기"
+                android:id="@+id/You_End"
+                android:layout_width="match_parent"
+                android:layout_height="48dp" />
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/You_Memo_editText"
+                android:inputType="number"
+                android:text="메모로 사용" />
+            <EditText
+                android:inputType="number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/You_editText"
+                android:editable="false" />
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:id="@+id/gridLayout1">
+                <Button
+                    android:text="0 S"
+                    android:id="@+id/S_button"
+                    android:layout_width="95dp" />
+                <Button
+                    android:text="0 B"
+                    android:id="@+id/B_button"
+                    android:layout_width="95dp" />
+            </GridLayout>
+            <Button
+                android:text="네가 맞춰봐"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/You_button" />
+            <EditText
+                android:inputType="none"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:id="@+id/YouList_editText"
+                android:editable="false"
+                android:scrollbars="vertical"
+                android:scrollbarStyle="insideInset"
+                android:verticalScrollbarPosition="defaultPosition"
+                android:gravity="top" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
